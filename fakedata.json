@@ -2,14 +2,14 @@
    
     {
       "id": 102,
-      "name": "HyperText Markup Language",
+      "name": "HTML",
       "inventor": "Tim Berners-Lee",
       "img": "https://i.ibb.co/rHjxjXb/html.png",
       "description": "The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript. ... HTML elements are the building blocks of HTML pages."
     },
     {
       "id": 101,
-      "name": "Cascading Style Sheet",
+      "name": "CSS",
       "inventor": "Håkon Wium Lie ",
       "img": "https://i.ibb.co/1s1H6qh/css.png",
       "description": "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML."
